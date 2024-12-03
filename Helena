@@ -1,0 +1,7 @@
+const caixaLapis = document.querySelectorAll('.lapis');
+caixaLapis.forEach(lapis => {
+    this.getAttribute('data-cor');
+    domument.getElementById('cor-' +
+    this.getAttribute('data-cor')).classList.add('ativo')
+    }
+    );
